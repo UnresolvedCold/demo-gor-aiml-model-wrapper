@@ -1,0 +1,16 @@
+{"1.2.0",
+[{<<"aiml_model_wrapper">>,
+  {git_subdir,"git@github.com:greyorange/gm_aiml_models.git",
+              {ref,"69d2d9dcca1b6248bd5d191e7a7966b039cd1c09"},
+              "aiml_model_wrapper/erlang/aiml_model_wrapper"},
+  0},
+ {<<"erlport">>,{pkg,<<"erlport">>,<<"0.11.0">>},1},
+ {<<"jiffy">>,{pkg,<<"jiffy">>,<<"1.1.1">>},1}]}.
+[
+{pkg_hash,[
+ {<<"erlport">>, <<"8BB46A520E6EB9146E655FBF9B824433D9D532194667069D9AA45696AAE9684B">>},
+ {<<"jiffy">>, <<"ACA10F47AA91697BF24AB9582C74E00E8E95474C7EF9F76D4F1A338D0F5DE21B">>}]},
+{pkg_hash_ext,[
+ {<<"erlport">>, <<"8EB136CCAF3948D329B8D1C3278AD2E17E2A7319801BC4CC2DA6DB278204EEE4">>},
+ {<<"jiffy">>, <<"62E1F0581C3C19C33A725C781DFA88410D8BFF1BBAFC3885A2552286B4785C4C">>}]}
+].
