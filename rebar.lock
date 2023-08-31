@@ -1,7 +1,7 @@
 {"1.2.0",
 [{<<"aiml_model_wrapper">>,
   {git_subdir,"git@github.com:greyorange/gm_aiml_models.git",
-              {ref,"69d2d9dcca1b6248bd5d191e7a7966b039cd1c09"},
+              {ref,"123846cb5816062d37f600ef3f25e3c3b1b99390"},
               "aiml_model_wrapper/erlang/aiml_model_wrapper"},
   0},
  {<<"erlport">>,{pkg,<<"erlport">>,<<"0.11.0">>},1},
